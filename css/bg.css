@@ -1,11 +1,14 @@
+/*
+dont need this, just note
+
 .lg-profile-picture {
     width: 100%;
     height: 100%;
-    background-image: url('../img/rimuru.jpg');
+    background-image: url('../img/naruse.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    filter: contrast(115%) brightness(115%);
+    filter: contrast(1%) brightness(1%);
   }
 
 
@@ -16,10 +19,10 @@
   -moz-border-radius: 50%;
   border-radius: 50%;
   display: none;
-  background-image: url('../img/rimuru.jpg');
+  background-image: url('../img/naruse.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   margin-bottom: 23px;
-  filter: contrast(115%) brightness(115%);
-}
+  filter: contrast(1%) brightness(1%);
+} */
